@@ -176,14 +176,11 @@ CMAPSS Turbofan Engine Degradation Simulation Dataset
 <h2>👨‍💻 Authors</h2>
 
 <p>
-<b>Arjun Vinod Patil & Anuj Dalvi</b>  
-Machine Learning and Data Science  
-Remote
+<b>Arjun Vinod Patil & Anuj Dalvi</b>
 </p>
 
 <p> 
-Machine Learning and Data Science  
-Remote
+Machine Learning and Data Science
 </p>
 
 <p>  
